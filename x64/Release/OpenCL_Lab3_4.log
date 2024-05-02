@@ -1,0 +1,2 @@
+﻿  main.cpp
+C:\Users\Максим\source\repos\OpenCL_Lab3_4\main.cpp(537,3): error C4996: 'clCreateCommandQueue': объявлен deprecate
